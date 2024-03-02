@@ -1,0 +1,10 @@
+{
+  "domain": "dolphin2.0",
+  "name": "dolphin2.0",
+  "config_flow": true,
+  "documentation": "https://github.com/OriAshkenazi/dolphin2.0",
+  "issue_tracker": "https://github.com/OriAshkenazi/dolphin2.0",
+  "codeowners": ["@OriAshkenazi"],
+  "version": "1.0.0",
+  "iot_class": "cloud_polling"
+}
