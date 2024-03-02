@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/home-assistant/brands/43fe40e19cc76a6d9b18a38bb178f6dcc6ba05d5/custom_integrations/dolphin/logo.png" width="647" height="128" alt=""/></p>
 
-The component is developed by [Alon Teplitsky](https://www.linkedin.com/in/alon-teplitsky/) and [Ori Ashkenazi][https://www.linkedin.com/in/oriashkenazi/].
+The component is developed by [Alon Teplitsky](https://www.linkedin.com/in/alon-teplitsky/) and [Ori Ashkenazi](https://www.linkedin.com/in/oriashkenazi/).
 
 ## Installation
 
